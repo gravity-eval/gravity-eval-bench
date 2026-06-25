@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                526,
+                702
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 2.778332708885274,
+    "initial_height2": 1.8739853796162957,
+    "size1": 0.12,
+    "size2": 0.12,
+    "camera_depth": 6.390165230436129,
+    "camera_position": [
+        6.318305155700193,
+        -0.9556315355445277,
+        1.389166354442637
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.389166354442637
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_21/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_21/video.mp4",
+    "chosen_hdri": "outdoor_hdri/quarry_01_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 186.943880428652,
+    "centroid_y1": 252.93513818386916,
+    "centroid_x2": 532.0350480497456,
+    "centroid_y2": 504.5610514414924,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 6.1330749656438215,
+    "object_1": {
+        "positive_points": [
+            [
+                187,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                532,
+                505
+            ]
+        ],
+        "negative_points": []
+    }
+}

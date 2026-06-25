@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                552,
+                769
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 2.415343387476334,
+    "initial_height2": 1.1528136785277485,
+    "size1": 0.11,
+    "size2": 0.11,
+    "camera_depth": 5.555289791195568,
+    "camera_position": [
+        4.378450855431751,
+        -3.419124562037871,
+        1.207671693738167
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.207671693738167
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_49/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_49/video.mp4",
+    "chosen_hdri": "outdoor_hdri/belfast_sunset_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 164.24805618259342,
+    "centroid_y1": 252.87409079508402,
+    "centroid_x2": 554.8170669391926,
+    "centroid_y2": 657.1027082268779,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 5.620200789221752,
+    "object_1": {
+        "positive_points": [
+            [
+                164,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                555,
+                657
+            ]
+        ],
+        "negative_points": []
+    }
+}

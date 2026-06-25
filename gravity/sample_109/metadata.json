@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                604,
+                819
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 1.8885764483110565,
+    "initial_height2": 0.7406727491567265,
+    "size1": 0.11,
+    "size2": 0.11,
+    "camera_depth": 4.34372583111543,
+    "camera_position": [
+        4.322332935527137,
+        0.4305718178850001,
+        0.9442882241555283
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        0.9442882241555283
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_46/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_46/video.mp4",
+    "chosen_hdri": "outdoor_hdri/qwantani_sunrise_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 109.69887401095556,
+    "centroid_y1": 252.7297626293366,
+    "centroid_x2": 609.31153905886,
+    "centroid_y2": 722.8919086814723,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 0.09928805063363334,
+    "object_1": {
+        "positive_points": [
+            [
+                110,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                609,
+                723
+            ]
+        ],
+        "negative_points": []
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "object_1": {
+        "positive_points": [
+            [
+                233,
+                105
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                390,
+                782
+            ]
+        ],
+        "negative_points": []
+    },
+    "ground": {
+        "positive_points": [
+            [
+                336,
+                903
+            ]
+        ],
+        "negative_points": []
+    }
+}

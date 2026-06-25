@@ -1,0 +1,30 @@
+{
+    "object_1": {
+        "positive_points": [
+            [
+                363,
+                395
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                585,
+                152
+            ]
+        ],
+        "negative_points": []
+    },
+    "ground": {
+        "positive_points": [
+            [
+                508,
+                793
+            ]
+        ],
+        "negative_points": []
+    },
+    "artifact_detection_prompt": "green ball"
+}

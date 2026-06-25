@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                484,
+                811
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 3.7831271278436414,
+    "initial_height2": 1.2981359437860536,
+    "size1": 0.105,
+    "size2": 0.105,
+    "camera_depth": 8.701192394040374,
+    "camera_position": [
+        7.600632642731659,
+        -4.235697405191736,
+        1.8915635639218207
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.8915635639218207
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_30/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_30/video.mp4",
+    "chosen_hdri": "outdoor_hdri/quarry_01_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 235.78902953586498,
+    "centroid_y1": 253.0028129395218,
+    "centroid_x2": 483.157060518732,
+    "centroid_y2": 760.7629682997118,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 5.774768340492254,
+    "object_1": {
+        "positive_points": [
+            [
+                236,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                483,
+                761
+            ]
+        ],
+        "negative_points": []
+    }
+}

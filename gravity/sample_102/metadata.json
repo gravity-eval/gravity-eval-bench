@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                524,
+                729
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 2.9359787866878184,
+    "initial_height2": 1.489863685691109,
+    "size1": 0.12,
+    "size2": 0.12,
+    "camera_depth": 6.752751209381982,
+    "camera_position": [
+        -1.0360792922264292,
+        6.672794661611385,
+        1.4679893933439092
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.4679893933439092
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_39/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_39/video.mp4",
+    "chosen_hdri": "outdoor_hdri/ehingen_hillside_02_4k.hdr",
+    "ground_material_file": "outdoor_grounds/concrete_floor_03_4k.blend/concrete_floor_03_4k.blend",
+    "fps": 24,
+    "centroid_x1": 196.19009287925698,
+    "centroid_y1": 252.8922600619195,
+    "centroid_x2": 522.7923150206415,
+    "centroid_y2": 633.7418228008892,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 1.7248354716278598,
+    "object_1": {
+        "positive_points": [
+            [
+                196,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                523,
+                634
+            ]
+        ],
+        "negative_points": []
+    }
+}

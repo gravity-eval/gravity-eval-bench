@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                528,
+                816
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 2.86921821447233,
+    "initial_height2": 0.9771505552102493,
+    "size1": 0.105,
+    "size2": 0.105,
+    "camera_depth": 6.5992018932863585,
+    "camera_position": [
+        1.9088297927790239,
+        -6.317106493526403,
+        1.434609107236165
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.434609107236165
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_12/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_12/video.mp4",
+    "chosen_hdri": "outdoor_hdri/belfast_sunset_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 196.4833132287897,
+    "centroid_y1": 252.95375954965823,
+    "centroid_x2": 522.5197693574959,
+    "centroid_y2": 762.830313014827,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 5.005833918971541,
+    "object_1": {
+        "positive_points": [
+            [
+                196,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                523,
+                763
+            ]
+        ],
+        "negative_points": []
+    }
+}

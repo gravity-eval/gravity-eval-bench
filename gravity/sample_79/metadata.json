@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.005575279762570685,
+            "ball_density": 1,
+            "ball_volume": 0.005575279762570685
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                473,
+                748
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 3.8826981201068107,
+    "initial_height2": 2.7870275434482714,
+    "size1": 0.11,
+    "size2": 0.11,
+    "camera_depth": 8.930205676245665,
+    "camera_position": [
+        3.346907345997555,
+        8.279298559501155,
+        1.9413490600534054
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.9413490600534054
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_16/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_16/video.mp4",
+    "chosen_hdri": "outdoor_hdri/sunflowers_puresky_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 238.03622250970247,
+    "centroid_y1": 252.96377749029753,
+    "centroid_x2": 480.936877076412,
+    "centroid_y2": 471.16810631229237,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 1.1866314406148253,
+    "object_1": {
+        "positive_points": [
+            [
+                238,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                481,
+                471
+            ]
+        ],
+        "negative_points": []
+    }
+}

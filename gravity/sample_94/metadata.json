@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0048490482608158445,
+            "ball_density": 1,
+            "ball_volume": 0.0048490482608158445
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                195,
+                731
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 3.2131543168017713,
+    "initial_height2": 2.775683178924301,
+    "size1": 0.105,
+    "size2": 0.105,
+    "camera_depth": 7.390254928644073,
+    "camera_position": [
+        -4.4204142103737425,
+        5.922483104161117,
+        1.6065771584008857
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.6065771584008857
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_31/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_31/video.mp4",
+    "chosen_hdri": "outdoor_hdri/sunflowers_puresky_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 213.94630192502532,
+    "centroid_y1": 252.9159067882472,
+    "centroid_x2": 505.086508753862,
+    "centroid_y2": 358.21112255406797,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 2.2119756605236893,
+    "object_1": {
+        "positive_points": [
+            [
+                214,
+                253
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                505,
+                358
+            ]
+        ],
+        "negative_points": []
+    }
+}

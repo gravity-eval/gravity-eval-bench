@@ -1,0 +1,80 @@
+{
+    "ball1": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ball2": [
+        {
+            "ball_active": true,
+            "collision_shape": "SPHERE",
+            "ball_mass": 0.0072382294738708814,
+            "ball_density": 1,
+            "ball_volume": 0.0072382294738708814
+        }
+    ],
+    "ground": {
+        "positive_points": [
+            [
+                180,
+                755
+            ]
+        ],
+        "negative_points": []
+    },
+    "initial_height1": 1.729315449415245,
+    "initial_height2": 3.0675680520451962,
+    "size1": 0.12,
+    "size2": 0.12,
+    "camera_depth": 7.055406519703951,
+    "camera_position": [
+        -7.055120896198517,
+        -0.06348463045534257,
+        1.5337840260225981
+    ],
+    "camera_lookat": [
+        0.0,
+        0.0,
+        1.5337840260225981
+    ],
+    "camera_intrinsics": "default",
+    "time": 2,
+    "num_frames": 48,
+    "frame_start": 0,
+    "frame_0": "absolute_ground_truth_v10/sample_29/frame_0000.png",
+    "video_path": "absolute_ground_truth_v10/sample_29/video.mp4",
+    "chosen_hdri": "outdoor_hdri/quarry_01_4k.hdr",
+    "ground_material_file": "outdoor_grounds/asphalt_02_4k.blend/asphalt_02_4k.blend",
+    "fps": 24,
+    "centroid_x1": 203.22040958000693,
+    "centroid_y1": 590.2408885803541,
+    "centroid_x2": 515.7257026752455,
+    "centroid_y2": 252.88384693532,
+    "resolution": [
+        720,
+        1280
+    ],
+    "rotation_azimuth": 3.150590786719774,
+    "object_1": {
+        "positive_points": [
+            [
+                203,
+                590
+            ]
+        ],
+        "negative_points": []
+    },
+    "object_2": {
+        "positive_points": [
+            [
+                516,
+                253
+            ]
+        ],
+        "negative_points": []
+    }
+}
